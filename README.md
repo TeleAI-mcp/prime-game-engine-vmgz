@@ -1,2 +1,3 @@
-# prime-game-engine-vmgz
-A repository to test GitHub automation for issue management
+# Prime Game Engine Vmgz
+
+A repository to test GitHub automation for issue management.
